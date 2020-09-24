@@ -1,2 +1,3 @@
 # Hello-world
 Test to learn more about github
+I am just learning more about GitHub, so no coding yet or something like that. Just to see what GitHub exactly is and does...
